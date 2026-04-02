@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Boldonse&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-family: "Playfair Display", sans-serif;
+
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("./assets/porsche.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
